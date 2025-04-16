@@ -1,0 +1,18 @@
+body {
+    background-color: #7eaddd;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 150px;
+    max-width: 100px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+p.text-center {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #286396;
+}
